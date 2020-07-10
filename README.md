@@ -1,2 +1,2 @@
-# simple-web
+# Simple Web
 A Simple Website
